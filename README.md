@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anuragk02
 - 👀 I’m interested in Science and Creating stuff in general.
-- 🌱 I’m currently learning Programming with Data Structures and Algorithms.
+- 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on Deep Laerning or Blockchain related Projects.
 - 📫 How to reach me: You can reach me at *anurag.khandelwal19@gmail.com*.
 
